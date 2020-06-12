@@ -1,6 +1,6 @@
-#Sample output
+# Sample output
 
-#Example usage:
+# Example usage:
 ```java
         System.out.println(buildDescriptiveText("i=i+1;",
                                                 "Add one to i",
@@ -22,7 +22,7 @@
                                                 "Add one to i\nAdd one to i\nAdd\none\nto\ni",
                                                 TextAlignment.CENTER));
 ```
-#Output for example code:
+# Output for example code:
 ```text
 /**********************
  *                    *
