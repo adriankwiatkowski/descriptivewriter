@@ -54,7 +54,7 @@ public class DescriptiveWriter {
                                               TextAlignment textAlignment,
                                               int lineLength,
                                               boolean addExtraLines) {
-        if (lineLength < 0) {
+        if (lineLength <= 0) {
             throw new IllegalArgumentException("Max line length must be grater than 0.");
         }
 
