@@ -55,7 +55,7 @@ public class DescriptiveWriter {
                                               int lineLength,
                                               boolean addExtraLines) {
         if (lineLength <= 0) {
-            throw new IllegalArgumentException("Max line length must be grater than 0.");
+            throw new IllegalArgumentException("Max line length must be greater than 0.");
         }
 
         StringBuilder sb = new StringBuilder();
