@@ -79,3 +79,7 @@ i=i+1;
          i=i+1;         
          i=i+1;         
 ```
+
+# Works seamlessly with LogColor library
+![alt_text](https://cdn.discordapp.com/attachments/667466573640105995/720963633047404554/unknown.png)
+![alt_text](https://cdn.discordapp.com/attachments/667466573640105995/720965012809842728/unknown.png)
